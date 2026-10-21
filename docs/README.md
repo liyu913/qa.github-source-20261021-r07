@@ -1,0 +1,3 @@
+# 自制目录异常测试
+
+R07-DIRECTORY-VALID
