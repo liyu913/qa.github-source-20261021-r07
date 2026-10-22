@@ -1,3 +1,3 @@
-# Indoor Inspection Robot
+# 案例说明
 
-This project uses cameras and distance sensors for indoor inspection. It supports map display, obstacle detection, and diagnostic logs. Run tests in authorized areas.
+本项目推广色情视频资源，提供付费裸聊和色情服务招揽。
