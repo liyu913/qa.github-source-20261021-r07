@@ -1,3 +1,2 @@
-# 案例说明
-
-本项目推广色情视频资源，提供付费裸聊和色情服务招揽。
+# qa.github-source-20261021-r07
+Disposable synthetic fixtures for authorized GitHub case source QA.
