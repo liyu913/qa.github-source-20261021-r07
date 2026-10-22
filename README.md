@@ -1,2 +1,3 @@
-# qa.github-source-20261021-r07
-Disposable synthetic fixtures for authorized GitHub case source QA.
+# Indoor Inspection Robot
+
+This project uses cameras and distance sensors for indoor inspection. It supports map display, obstacle detection, and diagnostic logs. Run tests in authorized areas.
